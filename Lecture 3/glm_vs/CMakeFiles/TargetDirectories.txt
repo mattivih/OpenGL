@@ -1,0 +1,17 @@
+C:/Users/mattivih/Grafiikkaohjelmointi/Lecture3/glm_vs/CMakeFiles/RUN_TESTS.dir
+C:/Users/mattivih/Grafiikkaohjelmointi/Lecture3/glm_vs/CMakeFiles/INSTALL.dir
+C:/Users/mattivih/Grafiikkaohjelmointi/Lecture3/glm_vs/CMakeFiles/ALL_BUILD.dir
+C:/Users/mattivih/Grafiikkaohjelmointi/Lecture3/glm_vs/CMakeFiles/ZERO_CHECK.dir
+C:/Users/mattivih/Grafiikkaohjelmointi/Lecture3/glm_vs/glm/CMakeFiles/glm_static.dir
+C:/Users/mattivih/Grafiikkaohjelmointi/Lecture3/glm_vs/glm/CMakeFiles/RUN_TESTS.dir
+C:/Users/mattivih/Grafiikkaohjelmointi/Lecture3/glm_vs/glm/CMakeFiles/INSTALL.dir
+C:/Users/mattivih/Grafiikkaohjelmointi/Lecture3/glm_vs/test/CMakeFiles/RUN_TESTS.dir
+C:/Users/mattivih/Grafiikkaohjelmointi/Lecture3/glm_vs/test/CMakeFiles/INSTALL.dir
+C:/Users/mattivih/Grafiikkaohjelmointi/Lecture3/glm_vs/test/bug/CMakeFiles/RUN_TESTS.dir
+C:/Users/mattivih/Grafiikkaohjelmointi/Lecture3/glm_vs/test/bug/CMakeFiles/INSTALL.dir
+C:/Users/mattivih/Grafiikkaohjelmointi/Lecture3/glm_vs/test/core/CMakeFiles/RUN_TESTS.dir
+C:/Users/mattivih/Grafiikkaohjelmointi/Lecture3/glm_vs/test/core/CMakeFiles/INSTALL.dir
+C:/Users/mattivih/Grafiikkaohjelmointi/Lecture3/glm_vs/test/gtc/CMakeFiles/RUN_TESTS.dir
+C:/Users/mattivih/Grafiikkaohjelmointi/Lecture3/glm_vs/test/gtc/CMakeFiles/INSTALL.dir
+C:/Users/mattivih/Grafiikkaohjelmointi/Lecture3/glm_vs/test/gtx/CMakeFiles/RUN_TESTS.dir
+C:/Users/mattivih/Grafiikkaohjelmointi/Lecture3/glm_vs/test/gtx/CMakeFiles/INSTALL.dir

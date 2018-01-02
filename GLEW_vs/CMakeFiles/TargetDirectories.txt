@@ -1,0 +1,8 @@
+C:/Users/mattivih/Grafiikkaohjelmointi/GLEW_vs/CMakeFiles/glew.dir
+C:/Users/mattivih/Grafiikkaohjelmointi/GLEW_vs/CMakeFiles/glew_s.dir
+C:/Users/mattivih/Grafiikkaohjelmointi/GLEW_vs/CMakeFiles/INSTALL.dir
+C:/Users/mattivih/Grafiikkaohjelmointi/GLEW_vs/CMakeFiles/glewinfo.dir
+C:/Users/mattivih/Grafiikkaohjelmointi/GLEW_vs/CMakeFiles/visualinfo.dir
+C:/Users/mattivih/Grafiikkaohjelmointi/GLEW_vs/CMakeFiles/uninstall.dir
+C:/Users/mattivih/Grafiikkaohjelmointi/GLEW_vs/CMakeFiles/ALL_BUILD.dir
+C:/Users/mattivih/Grafiikkaohjelmointi/GLEW_vs/CMakeFiles/ZERO_CHECK.dir
